@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RubezhGateway.Engine/RubezhGateway.Engine.csproj" />
+    <Project Path="src/RubezhGateway.Host/RubezhGateway.Host.csproj" />
+  </Folder>
+</Solution>

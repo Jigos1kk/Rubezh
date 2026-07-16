@@ -1,6 +1,0 @@
-<Solution>
-  <Folder Name="/src/">
-    <Project Path="src/UzelGateway.Engine/UzelGateway.Engine.csproj" />
-    <Project Path="src/UzelGateway.Host/UzelGateway.Host.csproj" />
-  </Folder>
-</Solution>
